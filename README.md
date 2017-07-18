@@ -1,4 +1,5 @@
-# TatzMurakami
-Repository for Tatz Murakami.
+# Virtual multiplex registration
+This is an open source tool for whole-mouse brain virtual multiplex registration.
 
-This is a test.
+Complete instructions can be found in Wiki.
+
