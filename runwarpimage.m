@@ -69,7 +69,7 @@ else
     original_size = [info.Height,info.Width,size( Imgs, 1 )];
 end
 
-StandardDownPath = [StandardDir '/WL_0/Downsampled/Downsampled.tiff'];
+StandardDownPath = [StandardDir '/WL_0/Downsampled/Downsampled' ImgType];
 if ~exist(StandardDownPath, 'file')
     error('Downsampled standard image does not exist.')
 else
